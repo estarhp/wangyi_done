@@ -29,16 +29,16 @@
 ## 安装
 
 ```shell
-$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
-$ cd NeteaseCloudMusicApi
+$ git clone git@gitee.com:eastarhp/wangyi_done.git
+$ cd wangyi_done
 $ npm install
 ```
 
 或者
 
 ```shell
-$ git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
-$ cd NeteaseCloudMusicApi
+$ git clone git@gitee.com:eastarhp/wangyi_done.git
+$ cd wangyi_done
 $ npm install
 ```
 
