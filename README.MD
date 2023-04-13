@@ -28,13 +28,6 @@
 
 ## 安装
 
-```shell
-$ git clone git@gitee.com:eastarhp/wangyi_done.git
-$ cd wangyi_done
-$ npm install
-```
-
-或者
 
 ```shell
 $ git clone git@gitee.com:eastarhp/wangyi_done.git
