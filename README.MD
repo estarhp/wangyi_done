@@ -13,7 +13,7 @@ $ cd wangyi_done
 $ npm install
 ```
 
-## 运行
+## 运行(默认运行在3000端口，请确保3000端口未被占用)
 ```shell
 $ node app.js
 ```
